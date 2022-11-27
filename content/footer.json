@@ -11,7 +11,16 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Nossa Rede ",
+        "url": "https://linktree.com/mentoriaparamulheres"
+      },
+      {
+        "text": "Nosso Site",
+        "url": "http://0797e36.contato.site/mentoria-para-mulheres2"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
