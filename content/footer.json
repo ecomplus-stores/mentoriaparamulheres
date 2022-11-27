@@ -31,8 +31,9 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/compra-segura.png",
+      "alt": "Compra Segura",
+      "link": ""
     }
   ],
   "payment_methods": {
