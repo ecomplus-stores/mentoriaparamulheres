@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c84ffd1d380b2dc8d5b54c316683fb12.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7b62115810e2d98fe55fa56faedae1a4.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ee90d3b206218aa503a77698fbef1a99.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3430e4c55323522e809e3489b37924c3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4f3eb770f68d0fddabf7c9b6abe0c194.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Curso - Mentoria Para Mulheres",
+  "short_name": "mentoriaparamulheres",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Lojinha do curso Mentoria Para Mulheres - Conectando Mente e Coração.\n🦋 Fique livre dos MEDOS, das DORES e dos TRAUMAS que te impedem de VOAR. 🦋",
+  "background_color": "#ffffff",
+  "theme_color": "#50141d"
+}
