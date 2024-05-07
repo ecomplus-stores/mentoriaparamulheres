@@ -7,7 +7,14 @@
     {
       "type": "banner-slider",
       "autoplay": 2000,
-      "full_width": true
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/post-para-instagram-mulheres-empreendedoras-elegante-branco-e-bege-site-.png"
+        }
+      ]
     }
   ]
 }
